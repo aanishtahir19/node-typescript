@@ -20,4 +20,7 @@
 `git branch -D main`
 
 7. Rename Current Branch to main
-`git branch -m <newname>`
+`git branch -m main`
+
+
+Summary
